@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&weight=700&size=22&duration=2600&pause=900&color=FF2E2E&center=true&vCenter=true&width=700&lines=FRESHER+BACKEND+.NET;MICROSERVICES+%2F+PAYMENTS+%2F+MESSAGING;NO+NOISE.+JUST+SHIPPED+CODE." alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&weight=700&size=22&duration=2600&pause=900&color=FF2E2E&center=true&vCenter=true&width=700&lines=FULLSTACK+FRESHER;NO+NOISE.+JUST+SHIPPED+CODE." alt="Typing" />
 </div>
 
 <p align="center">
@@ -11,10 +11,6 @@
 </p>
 
 <br />
-
-<p align="center">
-  <b>/// STATS</b>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nerduckk&show_icons=true&theme=dark&title_color=FF2E2E&text_color=FFFFFF&bg_color=00000000&hide_border=true&rank_icon=github" height="150" alt="Stats" />
