@@ -30,6 +30,4 @@
 
 <br />
 
-<p align="center">
-  <sub>HANOI — 0917656016</sub>
-</p>
+
